@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "Q8U2P4JSWX.com.collegekey.app",
+        "paths": [ "/profile/*", "/home", "/" ]
+      }
+    ]
+  }
+}
